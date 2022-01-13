@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/transition-animals/static/css/main.073c9b0a.css",
+    "main.js": "/transition-animals/static/js/main.98fb6a5a.js",
+    "static/media/image-2.jpeg": "/transition-animals/static/media/image-2.702e5c1b4d253ba06bf0.jpeg",
+    "static/media/image-1.jpeg": "/transition-animals/static/media/image-1.741b172dee60447a47bb.jpeg",
+    "static/media/image-3.jpeg": "/transition-animals/static/media/image-3.4b1bf121901d3bbd8e91.jpeg",
+    "index.html": "/transition-animals/index.html",
+    "main.073c9b0a.css.map": "/transition-animals/static/css/main.073c9b0a.css.map",
+    "main.98fb6a5a.js.map": "/transition-animals/static/js/main.98fb6a5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.98fb6a5a.js"
+  ]
+}
